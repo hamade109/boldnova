@@ -1,0 +1,1 @@
+document.getElementById('payment-frame').innerHTML='<p>اختر طريقة الدفع</p>';

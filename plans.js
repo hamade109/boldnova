@@ -1,0 +1,1 @@
+document.getElementById('plans-container').innerHTML='جاري التحميل...';
